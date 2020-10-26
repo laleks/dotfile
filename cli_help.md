@@ -40,54 +40,30 @@
 
 
 Следующая маленькая жемчужина будет каждый раз, когда открывается новый терминал, воспроизводить крутое звучание космоса:
-$ echo '(play -q -n synth sine F2 sine C3 remix - fade 0 4 .1 norm -4 bend 0.5,2399,2 fade 0 4.0 0.5 &)' >> ~/.bashrc
+```$ echo '(play -q -n synth sine F2 sine C3 remix - fade 0 4 .1 norm -4 bend 0.5,2399,2 fade 0 4.0 0.5 &)' >> ~/.bashrc```
 
-Резервное копирование
-http://rus-linux.net/MyLDP/consol/files-commands.html
+[Резервное копирование](http://rus-linux.net/MyLDP/consol/files-commands.html)
 
 wget - загружает файл. (Вы также можете увидеть curl вместо wget).
 ```|``` конвейер (перенаправление), который перенаправляет вывод команды wget (файл, который вы скачали) непосредственно в другую команду.
 ```>``` отправить результат работы команды в следующее место.
 
-Как в Linux найти, кто использует файл
-http://rus-linux.net/MyLDP/consol/Who_is_Using_a_File.html
-
-Просмотр миниатюр изображений в терминале
-http://rus-linux.net/MyLDP/consol/Thumbnail_Images_In_Terminal.html
-
-утилиту командной строки, которую вы можете использовать для доступа к информации о процессах, активности процессора, памяти и т. д
-http://rus-linux.net/MyLDP/consol/Linux_Command_vmstat.html
-
-может понадобиться выполнить команду повторно, чтобы отследить изменения в выводе
-http://rus-linux.net/MyLDP/consol/watch.html
-
-как размер файла, номер inode, права доступа, время последнего доступа или модификации и т. д
-http://rus-linux.net/MyLDP/consol/Command_stat_for_Beginners.html
-
-Полезные параметры архиватора 7zip
-http://rus-linux.net/MyLDP/consol/install-and-use-7zip-archiver-on-linux.html
-http://rus-linux.net/MyLDP/consol/7z-command-switches.html
-
-Тестируем скорость чтения/записи для устройств usb и ssd с помощью команды dd в Linux
-http://rus-linux.net/MyLDP/consol/test-usb-drives.html
-
-Восстановление удаленных файлов в Linux
-http://rus-linux.net/MyLDP/consol/recover.html
-
-(Rename - утилита командной строки для переименовывания большого количества файлов в Linux)[http://rus-linux.net/MyLDP/consol/rename.html]
-
-(Как отформатировать флешку в терминале)[http://rus-linux.net/MyLDP/consol/howto-format-usb.html]
-
-(Подробнее о командах архивирования и сжатия в системе Linux)[http://rus-linux.net/MyLDP/consol/depthlook.html]
-
-(Команда Top в Linux)[http://rus-linux.net/MyLDP/consol/komanda-top-v-linux.html]
-
-(Программы командной строки для повседневного использования)[http://rus-linux.net/MyLDP/consol/commands-for-everyday-using-in-Linux.html]
-
-(Устанавливаем в системе Linux время, дату и часовой пояс, используем ntp)[http://rus-linux.net/MyLDP/consol/time-date-v-konsoli.html]
-
-(Сохрани свое время! Используй псевдонимы и функции в командной строке!)[http://rus-linux.net/lib.php?name=/MyLDP/consol/aliases.html]
-
+[Как в Linux найти, кто использует файл](http://rus-linux.net/MyLDP/consol/Who_is_Using_a_File.html)
+[Просмотр миниатюр изображений в терминале](http://rus-linux.net/MyLDP/consol/Thumbnail_Images_In_Terminal.html)
+[утилиту командной строки, которую вы можете использовать для доступа к информации о процессах, активности процессора, памяти и т. д](http://rus-linux.net/MyLDP/)consol/Linux_Command_vmstat.html
+[может понадобиться выполнить команду повторно, чтобы отследить изменения в выводе](http://rus-linux.net/MyLDP/consol/watch.html)
+[как размер файла, номер inode, права доступа, время последнего доступа или модификации и т. д](http://rus-linux.net/MyLDP/consol/Command_stat_for_Beginners.html)
+[Полезные параметры архиватора 7zip](http://rus-linux.net/MyLDP/consol/install-and-use-7zip-archiver-on-linux.html)
+[2](http://rus-linux.net/MyLDP/consol/7z-command-switches.html)
+[Тестируем скорость чтения/записи для устройств usb и ssd с помощью команды dd в Linux](http://rus-linux.net/MyLDP/consol/test-usb-drives.html)
+[Восстановление удаленных файлов в Linux](http://rus-linux.net/MyLDP/consol/recover.html)
+[Rename - утилита командной строки для переименовывания большого количества файлов в Linux](http://rus-linux.net/MyLDP/consol/rename.html)
+[Как отформатировать флешку в терминале](http://rus-linux.net/MyLDP/consol/howto-format-usb.html)
+[Подробнее о командах архивирования и сжатия в системе Linux](http://rus-linux.net/MyLDP/consol/depthlook.html)
+[Команда Top в Linux](http://rus-linux.net/MyLDP/consol/komanda-top-v-linux.html)
+[Программы командной строки для повседневного использования](http://rus-linux.net/MyLDP/consol/commands-for-everyday-using-in-Linux.html)
+[Устанавливаем в системе Linux время, дату и часовой пояс, используем ntp](http://rus-linux.net/MyLDP/consol/time-date-v-konsoli.html)
+[Сохрани свое время Используй псевдонимы и функции в командной строке](http://rus-linux.net/lib.php?name=/MyLDP/consol/aliases.html)
 [эффективная консоль](https://xakep.ru/2017/05/18/cli-console-tips/)
 
 ```git init``` Создадим локальный репозиторий в папке с проектом  
