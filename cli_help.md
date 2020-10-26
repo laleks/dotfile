@@ -88,7 +88,7 @@ http://rus-linux.net/MyLDP/consol/recover.html
 
 (Сохрани свое время! Используй псевдонимы и функции в командной строке!)[http://rus-linux.net/lib.php?name=/MyLDP/consol/aliases.html]
 
-(эффективная консоль)[https://xakep.ru/2017/05/18/cli-console-tips/]
+[эффективная консоль](https://xakep.ru/2017/05/18/cli-console-tips/)
 
 ```git init``` Создадим локальный репозиторий в папке с проектом  
 ```git add [file]``` Для добавления файлов  
